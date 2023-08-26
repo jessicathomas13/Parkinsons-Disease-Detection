@@ -1,9 +1,9 @@
 # Parkinsons Disease Detection using Machine Learning
-- What is Parkinson's Disease?
+- **What is Parkinson's Disease?**
   
   Parkinson's disease is a neurodegenerative disorder that affects predominately the dopamine-producing (“dopaminergic”) neurons in a specific area of the brain called substantia nigra. It causes unintended or uncontrollable movements, such as shaking, stiffness, and difficulty with balance and coordination. Symptoms usually begin gradually and worsen over time. As the disease progresses, people may have difficulty walking and talking.
 
-- Project Description
+- **Project Description**
 
   This is a machine learning program that determines whether a person has Parkinson's disease based on their speech using Support Vector Machine Classifier. The dataset used is composed of a range of biomedical voice measurements from 31 people, 23 with Parkinson's disease (PD). Each column in the table is a particular voice measure, and each row corresponds one of 195 voice recording from these individuals ("name" column). The main aim of the data is to discriminate healthy people from those with PD, according to "status" column which is set to 0 for healthy and 1 for PD.
 
